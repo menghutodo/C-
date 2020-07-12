@@ -8,3 +8,4 @@ int main()
 	printf("sizeof(long long)=%ld\n",sizeof(long long));
 	return 0;
 }
+//一个字符包括8个比特位。一个比特位就是二进制位，所以一个比特可以表示0~255的数。
